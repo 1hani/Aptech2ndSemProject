@@ -1,4 +1,7 @@
+<?php
+include("Components/header.php");
 
+<<<<<<< HEAD:index.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -93,6 +96,9 @@
       </header>
       <!-- end header inner -->
       <!-- end header -->
+=======
+?>
+>>>>>>> df662c5df4161570de19e519ccf49b21927e2473:index.php
       <!-- banner -->
       <section class="banner_main">
          <div id="myCarousel" class="carousel slide banner1" data-ride="carousel">
@@ -182,28 +188,28 @@
                         <div class="we_box">
                            <i><img src="images/weicon1.png" alt="#"/></i>
                            <h3>Nail Art</h3>
-                           <p>Lorem ipsum dolor sit amet, consectetur </p>
+                           <p>Creative nail art with intricate designs for a stylish, unique look.</p>
                         </div>
                      </div>
                      <div class="col-md-3 col-sm-6">
                         <div class="we_box">
                            <i><img src="images/weicon2.png" alt="#"/></i>
                            <h3>Manicure</h3>
-                           <p>Lorem ipsum dolor sit amet, consectetur </p>
+                           <p>Expert nail care with shaping, cuticle care, and polish for a flawless finish.</p>
                         </div>
                      </div>
                      <div class="col-md-3 col-sm-6">
                         <div class="we_box">
                            <i><img src="images/weicon3.png" alt="#"/></i>
                            <h3>Pedicure</h3>
-                           <p>Lorem ipsum dolor sit amet, consectetur </p>
+                           <p>Relaxing pedicure with nail care, exfoliation, and perfect polish.</p>
                         </div>
                      </div>
                      <div class="col-md-3 col-sm-6">
                         <div class="we_box">
                            <i><img src="images/weicon4.png" alt="#"/></i>
                            <h3>Paraffin wax</h3>
-                           <p>Lorem ipsum dolor sit amet, consectetur </p>
+                           <p>Paraffin wax for soft, smooth, and hydrated skin.</p>
                         </div>
                      </div>
                   </div>
@@ -219,7 +225,7 @@
                <div class="col-md-6">
                   <div class="titlepage">
                      <h2>About Us</h2>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                     <p>Welcome to H&S Elegance Salon, where beauty meets relaxation! We’re dedicated to making you look and feel your best with expert care and a touch of elegance. Your happiness is our priority!</p>
                      <a class="read_more" href="Javascript:void(0)"> Read More</a>
                   </div>
                </div>
@@ -385,58 +391,11 @@
          </div>
       </div>
       <!-- end contact -->
-      <!--  footer -->
-      <footer>
-         <div class="footer">
-            <div class="container">
-               <div class="row">
-                  <div class="col-md-12">
-                     <ul class="conta">
-                        <li><i class="fa fa-map-marker" aria-hidden="true"></i> Passages of Lorem Ipsum available</li>
-                        <li><i class="fa fa-phone" aria-hidden="true"></i> Call : +012334567890</li>
-                        <li> <i class="fa fa-envelope" aria-hidden="true"></i><a href="#"> demo@gmail.com</a></li>
-                     </ul>
-                  </div>
-                  <div class=" col-md-3 col-sm-6">
-                     <h3>About </h3>
-                     <p class="variat">There are many variations of passages of Lorem Ipsum available, but the majority have suffered le</p>
-                  </div>
-                  <div class=" col-md-3 col-sm-6">
-                     <h3>Nail Salon  </h3>
-                     <p class="variat" >There are many variations of passages of Lorem Ipsum available, but the majority have suffered le</p>
-                  </div>
-                  <div class="col-md-2 col-sm-6">
-                     <h3>Useful Link</h3>
-                     <ul class="link_menu">
-                        <li class="active"><a href="index.html">Home</a></li>
-                        <li><a href="about.html"> About</a></li>
-                        <li><a href="we-do.html">What we do</a></li>
-                        <li><a href="pricing.html">Pricing</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
-                     </ul>
-                  </div>
-                  <div class="col-md-4 col-sm-6">
-                     <h3>Subscribe</h3>
-                     <form class="bottom_form">
-                        <a class="right_btn" href="Javascript:void(0)"> <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                        <input class="enter" placeholder="Enter your email" type="text" name="Enter your email">
-                        <p >There are many variations of passages </p>
-                     </form>
-                  </div>
-               </div>
-            </div>
-            <div class="copyright">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-md-10 offset-md-1">
-                        <p>© 2019 All Rights Reserved. Design by  <a href="https://html.design/"> Free Html Templates</a> Distributed By <a href="https://themewagon.com">ThemeWagon</a></p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </footer>
-      <!-- end footer -->
+       <!-- footer start-->
+        <?php
+         include("Components/footer.php")
+        ?>
+        <!-- footer end -->
       <!-- Javascript files-->
       <script src="js/jquery.min.js"></script>
       <script src="js/bootstrap.bundle.min.js"></script>
