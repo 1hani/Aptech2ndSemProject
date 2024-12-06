@@ -2,8 +2,6 @@
 include("Components/header.php")
 ?>
 
-      <!-- end header inner -->
-      <!-- end header -->
         <div class="back_re">
          <div class="container">
             <div class="row">
