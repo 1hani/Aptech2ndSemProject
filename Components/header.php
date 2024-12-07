@@ -42,9 +42,9 @@
          <div class="header">
             <div class="container-fluid">
                <div class="row">
-                  <div class="col-md-3 col-md-3 col-md-3 col-sm-3 col logo_section">
+                  <div class="col-sm-3 col-sm-3 col logo_section">
                      <div class="full">
-                        <div class="center-desk">
+                        <div class="text-center w-50 h-50 pb-5">
                            <div class="logo">
                               <a href="index.php"><img src="Assests\Logo\Elegance H&S Saloon.png" alt="#" /></a>
                            </div>

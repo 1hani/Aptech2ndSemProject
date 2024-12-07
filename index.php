@@ -2,7 +2,7 @@
 include("Components/header.php");
 
 ?>
-      <!-- banner -->
+      <!-- banner
       <section class="banner_main">
          <div id="myCarousel" class="carousel slide banner1" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -72,7 +72,7 @@ include("Components/header.php");
                </a>
             </div>
          </div>
-      </section>
+      </section> -->
       <!-- end banner -->
       <!-- what we do  -->
       <div class="we_do slin">
