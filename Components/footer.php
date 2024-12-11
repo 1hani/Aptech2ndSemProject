@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="css/animate.min.css">
       <!--  footer -->
       <footer>
          <div class="footer">
@@ -32,7 +33,7 @@
                      <h3>Subscribe</h3>
                      <form class="bottom_form">
                         <a class="right_btn" href="Javascript:void(0)"> <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                        <input class="enter" placeholder="Enter your email" type="text" name="Enter your email">
+                        <input class="enter" placeholder="Enter your email" type="text" name="Enter your email" id="animation">
                         <p >There are many variations of passages </p>
                      </form>
                   </div>

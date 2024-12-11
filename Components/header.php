@@ -18,6 +18,7 @@
       <link rel="stylesheet" href="css/style.css">
       <!-- Responsive-->
       <link rel="stylesheet" href="css/responsive.css">
+      <link rel="stylesheet" href="css/animate.min.css">
       <!-- fevicon -->
       <link rel="icon" href="Assests\Logo\Elegance H&S Saloon.png" type="image/gif" />
       <!-- Scrollbar Custom CSS -->
