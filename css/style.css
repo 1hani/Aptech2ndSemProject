@@ -266,7 +266,7 @@ button {
 }
 
 .logo::before {
-     position: absolute;
+     position: relative;
      content: "";
      background-color: #2e2d2d;
      width: 385px;

@@ -43,7 +43,7 @@
          <div class="header">
             <div class="container-fluid">
                <div class="row">
-                  <div class="col-sm-3 col-sm-3 col logo_section">
+                  <div class="col-sm-3 logo_section">
                      <div class="full">
                         <div class="text-center w-50 h-50 pb-5">
                            <div class="logo">
@@ -74,7 +74,7 @@
                               <li class="nav-item">
                                  <a class="nav-link" href="contact.php">Contact Us</a>
                               </li><li class="nav-item">
-                                 <a class="nav-link" href="dashboard\index.php">Admin</a>
+                                 <a class="nav-link" href="register.php">Admin</a>
                               </li>
                            </ul>
                         </div>
