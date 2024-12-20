@@ -1,6 +1,8 @@
 <?php
-$server ="mysql:host=localhost;dbname=project_saloon";
-$user="root";
-$password="";
-$pdo =new PDO($server,$user,$password);
+session_start();
+// session_unset();    
+$server = "mysql:host=localhost;dbname=project_saloon";
+$username = "root";
+$password = "";
+$pdo = new PDO($server,$username,$password);
 ?>

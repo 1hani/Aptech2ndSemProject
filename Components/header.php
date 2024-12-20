@@ -1,3 +1,7 @@
+<?php
+include('connection\query.php')
+?>
+
 <!DOCTYPE html>
 <html lang="en">
    <head>
